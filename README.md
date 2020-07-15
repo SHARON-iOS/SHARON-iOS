@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**SHARON-iOS/SHARON-iOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hi I'm SHARON   😄
 
-Here are some ideas to get you started:
+> ###### I will rule the world , just let me finish one more line of code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on iOS platform
+- 🌱 I’m currently learning swift UI
+
+### :sparkles: Expertise :
+* iOS Application Development (Swift)             
+* Design Patterns (MVC | MVVM)                    
+* Unit Testing                                    
+* iPhone | iPad                                   
+* Project Management                              
+* Payment Gateway (Pay pal, Open Pay, Stripe )    
+
+
+
+### 📫 Reach me via :raised_hands: : 
+
+* Instagram - https://www.instagram.com/sharon_d_rose/
+* Github :octocat: - https://github.com/SHARON-iOS
+* GitLab - https://gitlab.com/SHARON-iOS
+* LinkedIn - https://www.linkedin.com/in/sharon-d-rose-9586b6a7/
