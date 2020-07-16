@@ -1,5 +1,5 @@
 
-##### Hi I'm SHARON   😄
+##### Hi I'm SHARON   
 
 > ###### I will rule the world , just let me finish one more line of code.
 
